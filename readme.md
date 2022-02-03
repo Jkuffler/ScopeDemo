@@ -1,0 +1,1 @@
+Run or hide the block scoped variables which are undefined to see for yourself how scope is determined
